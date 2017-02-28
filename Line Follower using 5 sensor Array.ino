@@ -6,10 +6,10 @@
 #define right_motor_backward 13
 
 #define set_point 2000
-#define max_speed 200
-#define Kp 0
-#define Ki 0
-#define Kd 0
+#define max_speed 200 //set Max Speed Value
+#define Kp 0 //set Kp Value
+#define Ki 0 //set Ki Value
+#define Kd 0 //set Kd Value
 
 int proportional=0;
 int integral=0;
