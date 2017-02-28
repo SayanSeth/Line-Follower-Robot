@@ -7,10 +7,10 @@
 #define input_left 2
 #define input_right 3
 #define set_point 2000
-#define max_speed 100
-#define Kp 0.02
-#define Ki 0
-#define Kd 0
+#define max_speed 100 //Set Max Motor Speed
+#define Kp 0 //set Kp Value
+#define Ki 0 //set Ki Value
+#define Kd 0 //set Kd Value
 
 int proportional=0;
 int integral=0;
